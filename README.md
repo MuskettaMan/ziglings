@@ -1,3 +1,9 @@
+# Zigling Exercises
+
+This is a copy of [Zigling](https://codeberg.org/ziglings/exercises/#ziglings) where I'm completing all the Zig exercises. I'm using them to kickstart my Zig knowledge, and develop my foundation for the language.
+
+---
+
 # Ziglings
 
 Welcome to Ziglings! This project contains a series of tiny
